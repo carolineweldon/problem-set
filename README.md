@@ -8,6 +8,8 @@ Problems and Solutions:
 
 Problem-1
 Write a program that asks the user to input any positive integer and outputs the sum of all numbers between one and that number.
+problem-1.2.py is a second solution. As the course has progressed I can back and though about alernative ways of solving the problems.
+
 
 References: 
 https://docs.python.org/3/tutorial
@@ -24,6 +26,8 @@ https://stackoverflow.com
 
 Problem-3
 Write a program that prints all numbers between 1,000 and 10,000 that are divisible by 6 but not 12.
+problem-3.2.py is a second solution. As the course has progressed I can back and though about alernative ways of solving the problems.
+
 
 References: 
 https://docs.python.org/3/tutorial
@@ -46,6 +50,8 @@ https://stackoverflow.com
 
 Problem-6
 Write a program that takes a user input string and outputs every second word.
+problem-6.2.py is a second solution. As the course has progressed I can back and though about alernative ways of solving the problems.
+
 
 References: 
 https://docs.python.org/3/tutorial
@@ -54,6 +60,8 @@ https://stackoverflow.com
 
 Problem-7
 Write a program that that takes a positive floating point number as input and outputs an approximation of its square root.
+problem-7.2.py is a second solution. As the course has progressed I can back and though about alernative ways of solving the problems.
+
 
 References: 
 https://docs.python.org/3/tutorial
@@ -61,6 +69,8 @@ https://stackoverflow.com
 
 Problem-8
 Write a program that outputs today’s date and time in the format ”Monday, January 10th 2019 at 1:15pm”.
+problem-8.2.py is a second solution. As the course has progressed I can back and though about alernative ways of solving the problems.
+
 
 References: 
 https://docs.python.org/3/tutorial

@@ -1,3 +1,6 @@
+#Caroline Weldon
+#Ask user to input any positive integer and outputs the sum of all numbers between one and that number.
+
 #Prompt user to input a positive integer and assign this input to i
 i = int(input("enter a positive integer:"))
 
